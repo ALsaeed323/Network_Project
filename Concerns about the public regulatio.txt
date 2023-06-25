@@ -1,0 +1,17 @@
+Concerns about the public regulation of social media platforms emerged after the 2016 presidential elections in the U.S. and the U.K. with the Brexit referendum, 
+
+ocial media platforms connect consumers with digital content creators and typically monetize their interactions through advertising revenue.
+algorithms choose content exclusively for what they think you want to hear and see, making frequent, personalized editorial decisions based on your browsing behavior on their platforms, other websites (e.g. if you use Facebook or Google to login), and geolocation information taken from your cell phone.
+
+The final concern about social media platforms is that, by collecting so much demographic and behavioral data from our online activities, they can create a very precise digital model of who we are with significant predictive accuracy. They then sell these profiles, our digital twins or avatars, to advertisers both in and outside their platforms. They do this with little explicit knowledge or consent from their users
+
+reason 1 by Michael A. Cusumano, Annabelle Gawer, and David B. Yoffie
+self-regulation
+Self-regulation is when companies create their own rules instead of waiting for the government to do it. This can help avoid problems and keep their business healthy. Companies should work together and act quickly to make their own rules before the government steps in. By doing this, they can protect their business and keep people's trust. 
+by setting up clear rules and guidelines that companies agree to follow. These rules can include:
+1-Transparency
+2-Consent
+3-Data minimization
+4-Security
+5-Accountability
+
